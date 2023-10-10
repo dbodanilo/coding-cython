@@ -1,0 +1,10 @@
+.vscode
+__pycache__
+build
+c-algorithms*
+
+*.c
+*.cpp
+*.gz
+*.html
+*.so
